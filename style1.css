@@ -74,13 +74,14 @@ h1 {
 form {
     display: flex;
     flex-direction: column;
-    color: white;
+
 }
 
 label {
     margin-bottom: 0.5rem;
     color: black;
     font-size: larger;
+    color: white;
 
 }
 
